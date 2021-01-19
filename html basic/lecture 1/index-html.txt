@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hello everyone</h1>
+    <h6>hello ehdfn</h6>
+    <p>this is a paragraph</p>
+    hfsuibjf sfhbjfnfxhjvbnx bvsvdj
+    <br>
+    dshbjmdsvncbxhjbv
+    <br>
+    this is <i> italic</i>
+    this is <b>bold</b>
+    this us <u>dhjdc</u>
+    tduahzg zdhcjm <s>bfvhxvxn</s>
+    <br>
+    //inline element 
+    //block element
+</body>
+</html>
