@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table align="center" border="1" cellspacing=10 cellpadding=10 >
+        <tr>
+            <td>dbhshds</td>
+            <td>sfgdhfds</td>
+            <td align="center">sdfkjjdfs</td>
+        </tr>
+        <tr>
+            <td align="center" colspan="2">dcdchhdc</td>
+            <td rowspan="2">sdhvghdfs</td>
+        </tr>
+        <tr>
+            <td>hufdhfd</td>
+            <td>dhvfjkfx</td>
+        </tr>
+    </table>
+</body>
+</html>
