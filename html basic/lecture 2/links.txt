@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>svbjkbf</h1>
+    <a target="_blank" href="www.google.com">go to google</a>
+    <br>
+    <a href="/inner-link.html">inner-link</a>
+    <br>
+    <a href="http://example.com" target="_blank">open example in new tab</a>
+</body>
+</html>
