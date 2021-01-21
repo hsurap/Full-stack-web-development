@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>IFrames</h1>
+    <iframe frameborder="0" width="400px" height="200px" src="./links.html"></iframe>
+    <h1>link new page</h1>
+    <h2>open in frame</h2>
+    <ul>
+        <li>
+            <a target="frame1" href="./links.html">links</a>
+        </li>
+        <li>
+            <a target="frame2" href="./inner-link.html">inner links</a>
+        </li>
+    </ul>
+    <iframe name="frame1" frameborder="10" width="400px" height="400px" src="http://www.example.com"></iframe>
+    <iframe name="frame2" frameborder="10" width="400px" height="400px" src="./links.html"></iframe>
+    <iframe width="500" height="500" src="./iframes.html"></iframe>
+</body>
+</html>
