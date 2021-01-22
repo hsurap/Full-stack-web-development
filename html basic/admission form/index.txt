@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3 style="color:blue" align="center" >Jee Main 2021</h3>
+    <img align="up" align="left" height="100" width="100" src="https://www.mangaloremirror.com/wp-content/uploads/2020/06/Ministry-of-Human-Resource-Development-780x420.jpg">
+    <img align="right" height="100" width="300" src="https://img.navodayatimes.in/default.aspx?img=http://static.navodayatimes.in/multimedia/ntnew-11_50_087126899bkjsbjk.jpg&width=850">
+    <br>
+    <br>
+    <h2 style="background-color: crimson;"><b>HOME |</b></h2>
+    <iframe frameborder ="10" width="100%" height="400" src="./content.html"></iframe>
+</body>
+</html>
