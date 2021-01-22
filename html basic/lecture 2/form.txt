@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input >
+    <br>
+    <input type="password">
+    <br>
+    <input type="email">
+    <br>
+    <input min="100" max="200" type="number">
+    <input type="date">
+    <br>
+    <input type="color">
+    <input type="file">
+    <br>
+    <input id="a" type="checkbox"><label for="a">A</label>
+    <input type="checkbox">B
+    <input type="checkbox">C
+    <br>
+    <input name="ch" type="radio">a
+    <input name="ch" type="radio">b
+    <input name="ch" type="radio">c
+    <br>
+    <textarea></textarea>
+    <br>
+    <select multiple>
+        <op>xcjjcx</op>
+        <op>xnjvjxcv</op>
+        <op>dfjbhfxbhxcbx</op>
+    </select>
+    <h1>form</h1>
+    <form action="http://google.com/search">
+        <input name="q">
+        <button type="submit">search</button>
+    </form>
+</body>
+</html>
