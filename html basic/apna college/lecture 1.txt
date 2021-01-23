@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Namaste world </h1>
+    <h2>Namaste world </h2>
+    <hr>
+    <h3>Namaste world </h3>
+    <h4>Namaste world </h4>
+    <h5>Namaste world </h5>
+    <h6>Namaste world </h6>
+    <br>
+    <!---  printing special charchter     -->
+    <h1>printing h1 tag only </h1>
+    <h1>&lt;h1&gt;</h1>
+    <!--paragraph-->
+    <p>Lorem ipsum dolor, <b> amet consectetur adipisicing elit.</b> Doloribus accusamus,<i> magnam sunt cum velit quos a,</i>dolores nemo asperiores eos non adipisci, dolorem maiores assumenda 10<sup>2</sup> delectus sit 10 <sub>2</sub> earum. Repudiandae.</p>
+    <!--list-->
+    <hr>
+    <ol type="1">
+        <l1>sdhdsh</l1>
+        <l1>sdhbdsh</l1>
+        <l1>sdhfdsh
+            <ul>
+                <li>sdghfhdhf</li>
+                <li>dhxhxvh</li>
+            </ul>
+        </l1>
+        <l1>sdhfdsh</l1>
+    </ol>
+    <hr>
+    <ul>
+        <li>sdhbbsdj</li>
+        <li>sdhbbsdj</li>
+        <li>sdhbbsdj</li>
+        <li>sdhbbsdj</li>
+    </ul>
+    <a href="lecture2.html">lecture 2</a>
+</body>
+</html>
