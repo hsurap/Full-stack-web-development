@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apna college | Home </title>
+    <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+    <header>
+        <h1>Apni Kaksha</h1>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">College Reveiw</a>
+        <a href="#">Courses</a>
+        <a href="#">Study Material</a>
+        <a href="#">Login</a>
+    </nav>
+    <main>
+        <section>
+            <h2>Courses</h2>
+            <video src="vid/10.CPPRecursionTimeToTryBinarySearch.mp4" width="33%" poster="img/download.jpg" controls></video>
+            <video src="vid/11.CPPRecursionBinarySearch.mp4" width="33%" poster="img/download (1).jpg" controls></video>
+            <video src="vid/3.CPPTimetoTryPowerFn.mp4" width="33%" poster="img/0.43013100_1569136886_earth-in-forest.jpg" controls></video>
+            <br>
+            <br>
+            <br>
+            <video src="vid/10.CPPRecursionTimeToTryBinarySearch.mp4" width="33%" poster="img/download.jpg" controls></video>
+            <video src="vid/11.CPPRecursionBinarySearch.mp4" width="33%" poster="img/download (1).jpg" controls></video>
+            <video src="vid/3.CPPTimetoTryPowerFn.mp4" width="33%" poster="img/0.43013100_1569136886_earth-in-forest.jpg" controls></video>
+        </section>
+        <section>
+            <h2>College Reveiw</h2>
+            <iframe width="33%" height="315" src="https://www.youtube.com/embed/61ppyY5rUB0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="33%" height="315" src="https://www.youtube.com/embed/1VfqlKtVF7U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="33%" height="315" src="https://www.youtube.com/embed/WaOVci2wKLg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </section>
+        <section>
+            <h2>Study Material</h2>
+            <a  target="_blank" href="notes/14.PrimeVisits.txt"><img width="24%" src="img/0.43013100_1569136886_earth-in-forest.jpg" alt="img"></a>
+            <a  target="_blank" href="notes/15.BrokenCalculator.txt"><img width="24%" src="img/download (1).jpg" alt="img"></a>
+            <a  target="_blank" href="notes/14.PrimeVisits.txt"><img width="24%" src="img/download (1).jpg" alt="img"></a>
+        </section>
+        <section>
+            <h2>
+                Our Founder
+            </h2>
+            <img width="300" src="img/WIN_20200914_13_55_22_Pro.jpg" alt="Parush">
+            <h2>Parush</h2>
+            <a href="https://www.instagram.com/parush786/?hl=en">youtube</a>&nbsp; &nbsp; &nbsp; &nbsp;
+            <a href="https://www.youtube.com/channel/UCbYE_tF94muR2jw595TVM3g">instagram</a>
+        </section>
+    </main>
+    <footer>
+        <a href="#">FAQ</a>
+        <a href="#">Contact Us</a>
+        <a href="#">Terms of Use</a>
+        <a href="#">Privacy Policy</a>
+        <a href="#">Refund Policy</a>
+        <a href="#">&copy; 2020/apni kaksha</a>
+    </footer>
+</body>
+</html>
