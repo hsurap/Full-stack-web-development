@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style/style1.css">
+</head>
+<!--thead=heading, tr=table row, th =table heading,td =table data -->
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>subject</th>
+                <th>theory</th>
+                <th>practical</th>
+                <th>total marks</th>
+                <th>grades</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>math</td>
+                <td>55</td>
+                <td>42</td>
+                <td>-</td>
+                <td>12</td>
+            </tr>
+            <tr>
+                <td>eng</td>
+                <td>55</td>
+                <td>-</td>
+                <td>-</td>
+                <td>12</td>
+            </tr>
+            <tr>
+                <td>chem</td>
+                <td>55</td>
+                <td>-</td>
+                <td>-</td>
+                <td>12</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <th colspan="5">result pass</th>
+        </tfoot>
+    </table>
+</body>
+</html>
