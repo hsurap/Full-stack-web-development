@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h2{
+            color: brown;
+        }
+    </style>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 style="color:aqua">Hello Everyone</h1>
+    <h2>My name is Parush.</h2>
+    <h3>starting with css</h3>
+    <!--types of selector-->
+    <p class="para1">Lorem ipsum dolor, sit amet consectetur <span class="sp">Rerum dolore earum excepturi pariatur, </span> adipisicing elit. repudiandae illo magni beatae, necessitatibus corporis reprehenderit, quia a aperiam totam voluptatem sapiente. Laboriosam ducimus quod similique?</p>
+    <p id="para2">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo labore blanditiis libero maiores voluptatum autem totam voluptate qui quasi debitis, corrupti laborum dignissimos nisi consequuntur alias, obcaecati esse aliquid dolorem?</p>
+    <a href="https://www.google.com">google</a>
+    <ol>
+        <li class="fruit">apple</li>
+        <li class="fruit">banana</li>
+        <li class="fruit1">orange</li>
+        <li>apple and <em>orange</em> </li>
+    </ol>
+</body>
+</html>
