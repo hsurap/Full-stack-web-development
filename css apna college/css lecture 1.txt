@@ -1,0 +1,54 @@
+h3{
+    color: blue;
+}
+p{
+    color: darkmagenta;
+}
+.para1{
+    color: blueviolet;
+}
+#para2{
+    color: chartreuse;
+}
+a[href="https://www.google.com"]{
+    color: crimson;
+}
+li{
+    list-style-type: none;
+}
+.fruit{
+    color: darkolivegreen;
+    font-weight: bolder;
+}
+span.sp{
+    color: dimgray;
+    font-style: initial;
+}
+li em{
+    color: lawngreen;
+    font-style: italic;
+}
+h1+h2{
+    font-size: 200%;
+}
+a:hover{
+    color: lightseagreen;
+    text-decoration: none;
+    font-size: inherit;
+}
+body h3+p .sp{
+    background-color: lightcoral;
+}
+p#para2{
+    background-color: orangered;
+}
+li[class]{
+    font-size: 200%;
+} 
+li[class="fruit1"]
+{
+    background-color: pink;
+}
+*{
+    font: xx-large;
+}
