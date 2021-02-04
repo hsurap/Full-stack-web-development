@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            padding: 18px;
+            border: 10px solid black;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis necessitatibus harum asperiores quo amet quas, culpa, itaque mollitia maxime quis saepe aliquid ea, a minus temporibus odio officia recusandae tempora at eaque rerum atque. Deserunt beatae architecto libero nostrum! Dicta laboriosam corrupti modi, vel debitis rem eum doloremque consequuntur dolores magnam ducimus ea neque cumque praesentium quisquam distinctio blanditiis est iure ipsa in tenetur, asperiores culpa! Corporis ea adipisci commodi explicabo aliquam voluptate, eveniet id laborum molestias laudantium dolor iusto labore mollitia error blanditiis, nesciunt sapiente. Architecto dolor dicta laboriosam dolorem voluptates tempore quaerat voluptatem vel fuga itaque, placeat deleniti.
+        </p>
+    </div>
+</body>
+</html>
