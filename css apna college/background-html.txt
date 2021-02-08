@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1{
+            background-color: coral;
+            font-size: 50px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-style: italic;
+            font-weight: 100;
+        }
+        .background{
+            background-repeat: no-repeat;
+            background-size: 500px;
+            background-image: url(ing-1.jpg);
+            height: 1000px;
+            width: 1000px;
+            background-position: center;
+            background-attachment: scroll;
+        }
+        #p1{
+            text-align: left;
+        }
+        #p2{
+            text-align: right;
+        }
+        #p3{
+            text-align: center;
+        }
+        #p4{
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+    <div class="background">
+        <h1>This is heading.</h1>
+        <p id="p1">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus possimus ipsa veritatis error eaque, quo tempora mollitia. Consequuntur, sed, perferendis explicabo illum aspernatur quas doloremque at voluptatum deserunt, omnis blanditiis?</p>
+        <p id="p2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi autem distinctio dolore vel? Enim ipsam accusantium quis. Quisquam cumque, illo hic delectus, eligendi, quo unde ut nulla assumenda ea aut.</p>
+        <p id="p3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio voluptate at aut assumenda ullam dolorum natus quaerat nostrum! Aspernatur hic necessitatibus vero molestias. Itaque obcaecati repellat, similique impedit corrupti aspernatur!</p>
+        <p id="p4">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, delectus aspernatur recusandae inventore illo voluptatibus. Nesciunt nulla, at voluptatum exercitationem, numquam est doloremque aut dicta nemo perferendis eligendi necessitatibus! Voluptatum?</p>
+    </div>
+</body>
+</html>
