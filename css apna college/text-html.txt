@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text editing</title>
+    <style>
+        p{
+            color: red;
+            line-height: 1.5;
+            font-weight: 200;
+            text-indent: 100px;
+            word-spacing: 1.5;
+        }
+        h1{
+            text-transform: uppercase;
+            text-decoration: line-through;
+            text-shadow: 1px 1px 1px blue;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>This is heading.</h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ratione dolore ut ipsum odit? Fuga eveniet tempora numquam at. Quibusdam, ipsam neque! Voluptatum, excepturi. Voluptates possimus et quasi laboriosam enim necessitatibus.</p>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus nesciunt nihil, vitae rerum ipsa in, nisi deleniti illum repudiandae sint blanditiis quam eius alias. Ducimus explicabo esse laudantium magni officiis.</p>
+</body>
+</html>
