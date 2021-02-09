@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color in CSS</title>
+    <style>
+        h1{
+            color: rgb(172, 11, 11);
+        }
+        p{
+            color: rgb(103, 6, 230);
+            background-color: coral;
+        }
+    </style>
+</head>
+<body>
+    <h1>This is Heading</h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore placeat quis optio natus consequuntur hic facilis porro aspernatur! Consequatur, commodi quibusdam ab placeat alias necessitatibus dignissimos obcaecati neque suscipit. Corrupti.</p>
+</body>
+</html>
